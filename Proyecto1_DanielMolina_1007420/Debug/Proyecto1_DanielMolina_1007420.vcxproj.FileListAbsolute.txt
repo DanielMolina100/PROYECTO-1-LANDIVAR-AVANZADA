@@ -1,0 +1,4 @@
+C:\Users\josda\source\repos\Proyecto1_DanielMolina_1007420\Proyecto1_DanielMolina_1007420\Debug\Proyecto1_DanielMolina_1007420.vcxprojAssemblyReference.cache
+C:\Users\josda\source\repos\Proyecto1_DanielMolina_1007420\Proyecto1_DanielMolina_1007420\Debug\Proyecto1DanielMolina1007420.MyForm.resources
+C:\Users\josda\source\repos\Proyecto1_DanielMolina_1007420\Proyecto1_DanielMolina_1007420\Debug\Proyecto1DanielMolina1007420.MyForm1.resources
+C:\Users\josda\source\repos\Proyecto1_DanielMolina_1007420\Proyecto1_DanielMolina_1007420\Debug\Proyecto1_DanielMolina_1007420.vcxproj.GenerateResource.cache
